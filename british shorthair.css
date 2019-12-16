@@ -1,0 +1,62 @@
+*{
+	border:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+#top{
+	width:100vw;
+	height:50vh;
+	top:0px;
+	left:-100vw;
+	position:fixed;
+	background-color:pink;
+	animation-name: ani;
+	animation-duration: 2.5s;
+	animation-iterration-count:1;
+	z-index: 2;
+}
+#down{
+	width:100vw;
+	height:50vh;
+	bottom:0px;
+	right:-100vw;
+	position:fixed;
+	background-color:#9F35FF;
+	animation-name: ann;
+	animation-duration: 2.5s;
+	animation-iterration-count:1;
+	z-index: 2;
+}
+@keyframes ani{
+	0%{
+		left:-100vw;
+	}
+	80%{
+		left:-20vw;
+	}
+	100%{
+		left:100vw;
+	}
+}
+@keyframes ann{
+	0%{
+		right:-100vw;
+	}
+	80%{
+		right:-20vw;
+	}
+	100%{
+		right:100vw;
+	}
+}
+#introduce{
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+	background-color: pink;
+	color: white;
+	z-index:1;
+}
+.det{
+	font-size:20;
+}
