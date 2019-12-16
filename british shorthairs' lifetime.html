@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h1>THE PICTURES AND WORDS IN THIS PAGE IS FROM WIKIPEDIA</h1>
+	<table border="1">
+		<tr>
+			<td><h3>4-month-old golden shaded male kitten</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Golden_Rebel_D%27Oaxaca_of_Feliland_4_months.JPG/120px-Golden_Rebel_D%27Oaxaca_of_Feliland_4_months.JPG"></td>
+		</tr>
+		<tr>
+			<td><h3>5-month-old lilac female kitten</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BKH-kitten-blue.jpg/120px-BKH-kitten-blue.jpg"></td>	
+		</tr>
+		<tr>
+			<td><h3>Blue bicolour adult male</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jack_Flash_blue_bicolour.jpg/120px-Jack_Flash_blue_bicolour.jpg"></td>
+		</tr>
+		<tr>
+			<td><h3>6-month-old silver classic tabby male kitten</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Silver_Classic_Tabby_British_Shorthair_Kitten.jpg/120px-Silver_Classic_Tabby_British_Shorthair_Kitten.jpg"></td>
+		</tr>
+		<tr>
+			<td><h3>Fawn and white bicolour adult male</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Catbalu_Cuddleton_british_shorthair.jpg/113px-Catbalu_Cuddleton_british_shorthair.jpg"></td>
+		</tr>
+		<tr>
+			<td><h3>Seal point with white adult female</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Www.pratulums-bkh.de_seal-point-white.jpg/77px-Www.pratulums-bkh.de_seal-point-white.jpg"></td>
+		</tr>
+		<tr>
+			<td><h3>Dilute blue-cream calico adult female</h3></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dilute_calico_British_Shorthair.jpg/90px-Dilute_calico_British_Shorthair.jpg"></td>
+		</tr>                                              
+	</table>
+</body>
+</html>
